@@ -5,3 +5,7 @@ Application consists of three files index.html, style.css, script.js.
 
 # DEMO 
 
+
+
+https://github.com/barathkumar2207/TODOLIST/assets/135441553/613cc82c-696b-4671-8e55-9255d1f90794
+
